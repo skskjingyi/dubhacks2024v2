@@ -1,7 +1,7 @@
-// Your private token
-const token = 'IYN3HV2M7CWAYX2J3HX6';  // Replace with your actual private token
+// Private token
+const token = 'IYN3HV2M7CWAYX2J3HX6';  
 
-// List of Seattle venue IDs
+// List of Seattle event ids
 const eventIds = ['1037843837857', '882323532437', '874787592237', '943237226937','999721222087']; // Replace with actual Seattle venue IDs
 
 // Function to get a random venue ID
@@ -55,6 +55,6 @@ function fetchEvent() {
     });
 }
 
-// Call the function to fetch a random event\
+// Call the function to fetch a random event
 
 fetchEvent()
