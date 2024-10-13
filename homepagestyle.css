@@ -41,11 +41,6 @@ body {
     width: 100%;
 }
 
-.event-description
-{
-    max-width: 400px;
-    margin: auto;
-}
 .event-details {
     padding: 20px;
 }
